@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liste des Bonus</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        #filters {
+          display: flex;
+          gap: 10px;
+          margin-bottom: 20px;
+        }
+        .search-container {
+            position: relative;
+        }
+        
+        #searchInput {
+            width: 200px;
+            padding: 7px 35px 7px 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+            line-height: 1.5;
+            outline: none;
+            transition: border-color 0.3s ease;
+        }
+        
+        #searchInput:focus {
+            border-color: #007bff;
+        }
+        
+        .search-icon {
+            position: absolute;
+            left: 220px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 16px;
+            height: 16px;
+            fill: #666;
+            pointer-events: none;
+        }
+        .filter-container {
+            display: inline-block;
+            position: relative;
+            margin-right: 10px;
+        }
+        .filter-select {
+          appearance: none;
+          -webkit-appearance: none;
+          padding: 5px 30px 5px 10px;
+          border: 1px solid #ddd;
+          border-radius: 4px;
+          background-color: white;
+          cursor: pointer;
+          position: relative;
+          min-width: 60px;
+        }
+        
+        .filter-select::after {
+            content: '';
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 0;
+            height: 0;
+            border-left: 5px solid transparent;
+            border-right: 5px solid transparent;
+            border-top: 5px solid #333;
+            pointer-events: none;
+        }
+        
+        .filter-select:hover::after {
+            border-top-color: #666;
+        }
+        
+        .filter-select.active::after {
+            transform: translateY(-50%) rotate(180deg);
+        }
+        .filter-options {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background-color: white;
+            border: 1px solid #ddd;
+            border-top: none;
+            max-height: 300px;
+            overflow-y: auto;
+            z-index: 1000;
+        }
+        .filter-option {
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+        .filter-option:hover {
+            background-color: #f0f0f0;
+        }
+        .filter-option.selected {
+            background-color: #e0e0e0;
+        }
+        #selectedFilters {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        .filter-tag {
+            display: inline-block;
+            background-color: #e0e0e0;
+            padding: 2px 8px;
+            margin: 2px;
+            border-radius: 12px;
+            font-size: 0.9em;
+        }
+        .filter-tag .remove {
+            cursor: pointer;
+            margin-left: 5px;
+            font-weight: bold;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: white;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+            cursor: pointer;
+        }
+        th.sorted:after {
+            content: " \25B2";
+        }
+        th.sorted.desc:after {
+            content: " \25BC";
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .bonus-type {
+            display: inline-block;
+            padding: 2px 5px;
+            margin: 2px;
+            border-radius: 3px;
+            font-size: 0.8em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Almanax Dofus Touch</h1>
+    <div id="filters">
+      <div class="search-container">
+          <input type="text" id="searchInput" placeholder="Rechercher...">
+          <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+              <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+          </svg>
+      </div>
+        <div class="filter-container">
+            <div class="filter-select" data-filter="bonusType">Types de bonus</div>
+            <div class="filter-options" id="bonusTypeOptions"></div>
+        </div>
+        <!-- <div class="filter-container">
+            <div class="filter-select" data-filter="bonusName">Noms de bonus</div>
+            <div class="filter-options" id="bonusNameOptions"></div>
+        </div> -->
+        <div class="filter-container">
+            <div class="filter-select" data-filter="month">Mois</div>
+            <div class="filter-options" id="monthOptions"></div>
+        </div>
+    </div>
+    <div id="selectedFilters"></div>
+    <table id="bonusTable">
+        <thead>
+            <tr>
+                <th onclick="sortTable(0)">Date</th>
+                <th onclick="sortTable(1)">Types de bonus</th>
+                <th onclick="sortTable(2)">Nom du bonus</th>
+                <th>Bonus</th>
+                <th>Quête</th>
+            </tr>
+        </thead>
+        <tbody id="bonusTableBody"></tbody>
+    </table>
+
+    <script>
+        let bonusList = [];
+        let currentSort = { column: -1, direction: 'asc' };
+        let selectedFilters = { bonusType: [], bonusName: [], month: [] };
+
+        const bonusTypeColors = {
+            "drop": "#83CBEC", 
+            "economie": "#8CE3C5",
+            "xp": "#B5A6C9",
+            "autre": "#FFC670",
+            "recolte": "#F3DE68",
+            "elevage": "#FFD4D4",
+            "challenge": "#ED5A68",
+        };
+
+        const bonusTypeLabels = {
+            "drop": "Butin",
+            "economie": "Économie",
+            "xp": "Expérience",
+            "autre": "Autre",
+            "recolte": "Récolte",
+            "elevage": "Élevage",
+            "challenge": "Challenge",
+        };
+
+        const monthLabels = {
+            1: "Janvier", 2: "Février", 3: "Mars", 4: "Avril",
+            5: "Mai", 6: "Juin", 7: "Juillet", 8: "Août",
+            9: "Septembre", 10: "Octobre", 11: "Novembre", 12: "Décembre"
+        };
+
+        // Charger les données JSON
+        fetch('almanax.json')
+            .then(response => response.json())
+            .then(data => {
+                bonusList = data;
+                populateTable(bonusList);
+                populateFilters();
+                setupFilterListeners();
+            });
+
+        function populateTable(data) {
+            const tableBody = document.getElementById('bonusTableBody');
+            tableBody.innerHTML = '';
+            data.forEach(item => {
+                const row = tableBody.insertRow();
+                row.insertCell(0).textContent = formatDate(item.date.day, item.date.month);
+                const typesCell = row.insertCell(1);
+                item.bonusTypes.forEach(type => {
+                    const span = document.createElement('span');
+                    span.className = 'bonus-type';
+                    span.textContent = bonusTypeLabels[type] || type;
+                    span.style.backgroundColor = bonusTypeColors[type] || '#DDDDDD';
+                    typesCell.appendChild(span);
+                });
+                row.insertCell(2).textContent = item.bonusName;
+                row.insertCell(3).textContent = item.bonus;
+                row.insertCell(4).textContent = item.quest;
+            });
+        }
+
+        function populateFilters() {
+            const bonusTypes = new Set();
+            const bonusNames = new Set();
+            const months = new Set();
+
+            bonusList.forEach(item => {
+                item.bonusTypes.forEach(type => bonusTypes.add(type));
+                bonusNames.add(item.bonusName);
+                months.add(item.date.month);
+            });
+
+            populateFilterOptions('bonusTypeOptions', bonusTypes, 'bonusType');
+            // populateFilterOptions('bonusNameOptions', bonusNames, 'bonusName');
+            populateFilterOptions('monthOptions', [...months].sort((a, b) => a - b), 'month');
+        }
+
+        function populateFilterOptions(id, values, filterType) {
+            const container = document.getElementById(id);
+            values.forEach(value => {
+                const option = document.createElement('div');
+                option.className = 'filter-option';
+                option.textContent = getFilterLabel(filterType, value);
+                option.dataset.value = value;
+                option.onclick = () => toggleFilter(filterType, value);
+                container.appendChild(option);
+            });
+        }
+
+        function formatDate(day, month) {
+          const monthNames = [
+              "Janvier", "Février", "Mars", "Avril", "Mai", "Juin",
+              "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"
+          ];
+          return `${day} ${monthNames[month - 1]}`;
+      }
+
+        function getFilterLabel(filterType, value) {
+            switch(filterType) {
+                case 'bonusType':
+                    return bonusTypeLabels[value] || value;
+                case 'month':
+                    return monthLabels[value] || value;
+                default:
+                    return value;
+            }
+        }
+
+        function setupFilterListeners() {
+          document.querySelectorAll('.filter-select').forEach(select => {
+              select.addEventListener('click', function() {
+                  const options = this.nextElementSibling;
+                  const isOpen = options.style.display === 'block';
+                  options.style.display = isOpen ? 'none' : 'block';
+                  this.classList.toggle('active', !isOpen);
+              });
+          });
+      
+          document.addEventListener('click', function(event) {
+              if (!event.target.closest('.filter-container')) {
+                  document.querySelectorAll('.filter-options').forEach(options => {
+                      options.style.display = 'none';
+                  });
+                  document.querySelectorAll('.filter-select').forEach(select => {
+                      select.classList.remove('active');
+                  });
+              }
+          });
+      
+          document.getElementById('searchInput').addEventListener('input', filterTable);
+      }
+
+        function toggleFilter(filterType, value) {
+            const index = selectedFilters[filterType].indexOf(value);
+            if (index > -1) {
+                selectedFilters[filterType].splice(index, 1);
+            } else {
+                selectedFilters[filterType].push(value);
+            }
+            updateFilterTags();
+            filterTable();
+        }
+
+        function updateFilterTags() {
+            const container = document.getElementById('selectedFilters');
+            container.innerHTML = '';
+            Object.entries(selectedFilters).forEach(([filterType, values]) => {
+                values.forEach(value => {
+                    const tag = document.createElement('span');
+                    tag.className = 'filter-tag';
+                    tag.textContent = getFilterLabel(filterType, value);
+                    tag.style.backgroundColor = bonusTypeColors[value] || '#DDDDDD';
+                    const removeBtn = document.createElement('span');
+                    removeBtn.className = 'remove';
+                    removeBtn.textContent = '×';
+                    removeBtn.onclick = () => {
+                        toggleFilter(filterType, value);
+                        document.querySelector(`.filter-option[data-value="${value}"]`).classList.remove('selected');
+                    };
+                    tag.appendChild(removeBtn);
+                    container.appendChild(tag);
+                });
+            });
+            updateFilterOptions();
+        }
+
+        function updateFilterOptions() {
+          Object.entries(selectedFilters).forEach(([filterType, values]) => {
+              const options = document.querySelectorAll(`#${filterType}Options .filter-option`);
+              options.forEach(option => {
+                  if (filterType === 'month') {
+                      option.classList.toggle('selected', values.includes(option.dataset.value) || values.includes(parseInt(option.dataset.value)));
+                  } else {
+                      option.classList.toggle('selected', values.includes(option.dataset.value));
+                  }
+              });
+          });
+        }
+
+        function filterTable() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+
+            const filteredData = bonusList.filter(item => 
+                (item.bonusName.toLowerCase().includes(searchTerm) || 
+                 item.bonus.toLowerCase().includes(searchTerm) || 
+                 item.quest.toLowerCase().includes(searchTerm)) &&
+                (selectedFilters.bonusType.length === 0 || item.bonusTypes.some(type => selectedFilters.bonusType.includes(type))) &&
+                (selectedFilters.bonusName.length === 0 || selectedFilters.bonusName.includes(item.bonusName)) &&
+                (selectedFilters.month.length === 0 || selectedFilters.month.includes(item.date.month))
+            );
+            populateTable(filteredData);
+        }
+
+        function sortTable(columnIndex) {
+            if (currentSort.column === columnIndex) {
+                currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+            } else {
+                currentSort.column = columnIndex;
+                currentSort.direction = 'asc';
+            }
+
+            bonusList.sort((a, b) => {
+                let valueA, valueB;
+                switch(columnIndex) {
+                    case 0: // Date
+                        valueA = new Date(a.date.year, a.date.month - 1, a.date.day);
+                        valueB = new Date(b.date.year, b.date.month - 1, b.date.day);
+                        break;
+                    case 1: // Types de bonus
+                        valueA = a.bonusTypes.join(', ');
+                        valueB = b.bonusTypes.join(', ');
+                        break;
+                    case 2: // Nom du bonus
+                        valueA = a.bonusName;
+                        valueB = b.bonusName;
+                        break;
+                }
+                if (valueA < valueB) return currentSort.direction === 'asc' ? -1 : 1;
+                if (valueA > valueB) return currentSort.direction === 'asc' ? 1 : -1;
+                return 0;
+            });
+
+            // Update sort indicators
+            const headers = document.querySelectorAll('th');
+            headers.forEach((header, index) => {
+                if (index === currentSort.column) {
+                    header.classList.add('sorted');
+                    header.classList.toggle('desc', currentSort.direction === 'desc');
+                } else {
+                    header.classList.remove('sorted', 'desc');
+                }
+            });
+
+            filterTable();
+        }
+    </script>
+</body>
+</html>

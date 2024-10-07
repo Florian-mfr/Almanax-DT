@@ -1,0 +1,4017 @@
+[
+    {
+      "date": {
+        "day": 1,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["autre", "recolte"],
+      "bonusName": "Apparition des ressources et des Archimonstres",
+      "bonus": "La vitesse d'apparition des Archimonstres est augmentée de 200 %.  La vitesse d'apparition des ressources de tous types est augmentée de 100 %.",
+      "quest": "Récupérer 4 Oeuf de Dragoeuf Doré et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 2,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Boulangers économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 10 Farine d'Avoine et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 3,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type Monstres de l'Arche d'Otomaï.",
+      "quest": "Récupérer 2 Foulard du Sparo et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 4,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type Monstres des Crocs de Verre.",
+      "quest": "Récupérer 2 Queue de Wolvero et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 5,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Bois abondant",
+      "bonus": "Les quantités de Bois d'If et de Bois de Bambou récupérées par les Bûcherons sont augmentées de 150 %.",
+      "quest": "Récupérer 12 Bois d'If et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 6,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Quête répétable",
+      "bonus": "Une quête répétable spéciale est disponible aujourd'hui près de l'atelier des boulangers du village d'Amakna. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+      "quest": "Récupérer 2 Patte de Wabbit et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 7,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type Animaux de la forêt.",
+      "quest": "Récupérer 7 Cuir de Sanglier et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 8,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 125 % dans le donjon Ensablé.",
+      "quest": "Récupérer 2 Serviette de Plage et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 9,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Objets de qualité",
+      "bonus": "La qualité des objets fabriqués dans la ville de Bonta est augmentée.",
+      "quest": "Récupérer 2 Epée Sacrée et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 10,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["elevage"],
+      "bonusName": "Élevage de Dragodindes",
+      "bonus": "Toutes les variétés de Dragodindes Emeraude donnent naissance à un bébé supplémentaire.",
+      "quest": "Récupérer 2 Aile de Dragodinde Dorée et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 11,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone d'Entraînement des Dopeuls.",
+      "quest": "Récupérer 2 Miroir de Dopeul et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 12,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Minerai abondant",
+      "bonus": "Les quantités d'Argent récupérées par les Mineurs sont augmentées de 150 %.",
+      "quest": "Récupérer 12 Argent et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 13,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % dans la zone du Lac Gelé.",
+      "quest": "Récupérer 2 Plume du Timansot et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 14,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone de la Crevasse Perge.",
+      "quest": "Récupérer 2 Queue de Yomi Givrefoux et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 15,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la Tourbière Nauséabonde.",
+      "quest": "Récupérer 2 Bave de La Ouassingue et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 16,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type Fantômes.",
+      "quest": "Récupérer 2 Relique Familiale et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 17,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les créatures de type Araknes.",
+      "quest": "Récupérer 7 Patte d'Arakne et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 18,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Pêche abondante",
+      "bonus": "Les quantités de Gros poissons de rivière récupérées par les Pêcheurs sont augmentées de 150 %.",
+      "quest": "Récupérer 2 Bar Rikain et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 19,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type Zombibés.",
+      "quest": "Récupérer 3 Pointe de Lance de Tournoyé et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 20,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon des Rats de Bonta.",
+      "quest": "Récupérer 2 Puces Sauteuses et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 21,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone du Bord de la forêt Maléfique.",
+      "quest": "Récupérer 1 Bouteille de Gloutoburg et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 22,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la Jungle Obscure.",
+      "quest": "Récupérer 2 Bractée de Chiendent et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 23,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Gibier abondant",
+      "bonus": "Les quantités de Chair d'insecte récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Chair d'Insecte.",
+      "quest": "Récupérer 5 Chair d'Insecte et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 24,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Percepteurs avides",
+      "bonus": "Le butin généré par les Percepteurs est augmenté de 300 % dans le donjon du Chêne Mou.",
+      "quest": "Récupérer 2 Bourgeon d'Abraknyde Sombre Irascible et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 25,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone du Cimetière Primitif.",
+      "quest": "Récupérer 2 Tibia de Koalak Fossoyeur et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 26,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Forgeurs d'armes (dagues, épées, marteaux, pelles et haches) économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 3 Marteau de Boisaille et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 27,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Récolte abondante",
+      "bonus": "Les quantités de Frostiz récupérées par les Paysans sont augmentées de 150 %.",
+      "quest": "Récupérer 10 Frostiz et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 28,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon des Rats du Château d'Amakna.",
+      "quest": "Récupérer 2 Crocs de Rats et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 29,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du Coin des Bouftous.",
+      "quest": "Récupérer 11 Laine de Boufton Noir et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 30,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres présents dans la zone de la Jungle Obscure.",
+      "quest": "Récupérer 2 Sépale de Nerbe et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 31,
+        "month": 1,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Cueillette abondante",
+      "bonus": "Les quantités de Feuilles de Menthe Sauvage récupérées par les Alchimistes sont augmentées de 125 %.",
+      "quest": "Récupérer 15 Feuille de Menthe Sauvage et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 1,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Vitalité débordante",
+      "bonus": "La régénération des Points de Vie est augmentée de 300 % (hors combat), et les soins par consommables sont augmentés de 100 %.",
+      "quest": "Récupérer 4 Potion de Mini Soin Supérieure et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 2,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["drop", "xp"],
+      "bonusName": "Butin et XP sur tous les Bouftous",
+      "bonus": "Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 75 % sur toutes les créatures considérées comme des Bouftous, y compris les Boufmouths et les Boufcouls.",
+      "quest": "Récupérer 6 Cuisse de bouftou rôti et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 3,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Fabrication intensive",
+      "bonus": "Pour chaque objet fabriqué, les Poissonniers ont 25 % de chances de créer un second objet.",
+      "quest": "Récupérer 6 Goujon en tranche ** et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 4,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone des Crocs de Verre.",
+      "quest": "Récupérer 2 Molaire de Blérice et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 5,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 125 % dans la zone Calanques d'Astrub.",
+      "quest": "Récupérer 2 Écaille poisseuse et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 6,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de la Plaine des Scarafeuilles.",
+      "quest": "Récupérer 8 Anneau de Sagesse et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 7,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Percepteurs zélés",
+      "bonus": "Le butin généré par les Percepteurs est augmenté de 300 % dans la zone de Terrdala.",
+      "quest": "Récupérer 2 Poterie cassée de Lolojiki et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 8,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Bois abondant",
+      "bonus": "Les quantités de Bois de Frêne récupérées par les Bûcherons sont augmentées de 125 %.",
+      "quest": "Récupérer 30 Bois de Frêne et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 9,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 150 % sur les Kanigrous.",
+      "quest": "Récupérer 4 Oreille de Kanigrou et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 10,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["elevage"],
+      "bonusName": "Élevage de Dragodindes",
+      "bonus": "Toutes les variétés de Dragodindes Rousse donnent naissance à un bébé supplémentaire.",
+      "quest": "Récupérer 5 Pic de Dragodinde Rousse Sauvage et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 11,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du Lac Gelé.",
+      "quest": "Récupérer 2 Duvet de Mamansot et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 12,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type Mulous.",
+      "quest": "Récupérer 7 Griffe du Milimulou et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 13,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Minerai abondant",
+      "bonus": "Les quantités de Cuivre récupérées par les Mineurs sont augmentées de 150 %.",
+      "quest": "Récupérer 20 Cuivre et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 14,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Tous les personnages voient leurs gains d'expérience augmentés de 100 % en récompense sur les quêtes.",
+      "quest": "Récupérer 5 Shigekax Passion et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 15,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 125 % dans le donjon du Chêne Mou.",
+      "quest": "Récupérer 2 Feuille d'Araknotron Irascible et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 16,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Chasseurs économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 3 Chair d'Insecte Conservée et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 17,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type Champignons.",
+      "quest": "Récupérer 11 Champignon et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 18,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon des Abraknydes.",
+      "quest": "Récupérer 5 Racine d'Abraknyde et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 19,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Pêche abondante",
+      "bonus": "Les quantités de Poissons récupérées par les Pêcheurs de tous niveaux sont augmentées de 100 %.",
+      "quest": "Récupérer 5 Poisson-Chaton et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 20,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres présents dans la zone du Tronc de l'Arbre Hakam.",
+      "quest": "Récupérer 2 Coco du Bitouf aérien et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 21,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone de Gisgoul, le village dévasté.",
+      "quest": "Récupérer 8 Bière de Bwork et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 22,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du Sanctuaire des Dragoeufs.",
+      "quest": "Récupérer 2 Corne de Dragueuse et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 23,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Apparition des ressources",
+      "bonus": "La vitesse d'apparition des ressources est augmentée de 150 % dans la zone des Champs de Cania.",
+      "quest": "Récupérer 20 Avoine et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 24,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone  des Souterrains du Château d'Amakna.",
+      "quest": "Récupérer 4 Plumes de Tofu et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 25,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les gains d'expérience sont augmentés de 100% dans la zone de l'île de Grobe.",
+      "quest": "Récupérer 2 Chitine de Pandogorgo et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 26,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type Minos.",
+      "quest": "Récupérer 3 Peau de Minoskito et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 27,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Gibier abondant",
+      "bonus": "Les quantités de Cuisses de Wabbit récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Cuisses de Wabbit.",
+      "quest": "Récupérer 3 Cuisse de Wabbit *** et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 28,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type Plantes de Moon et Tortues de Moon.",
+      "quest": "Récupérer 4 Noix de Kokoko et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 29,
+        "month": 2,
+        "year": 2024
+      },
+      "bonusTypes": ["drop", "xp"],
+      "bonusName": "Butin et XP pour tous",
+      "bonus": "Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 100 % lors des combats contre les monstres. De plus, les gains d'expérience sont augmentés de 50 % pour tous les métiers.",
+      "quest": "Récupérer 2 Nageoire de Compétition et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 1,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de Brâkmar.",
+      "quest": "Récupérer 1 Bâton Spirituel et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 2,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone de la Vallée de la Morh'Kitu.",
+      "quest": "Récupérer 2 Crâne d'Aventurier et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 3,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Bois abondant",
+      "bonus": "Les quantités de Bois de Charme et de Bois de Bambou Sombre récupérées par les Bûcherons sont augmentées de 150 %.",
+      "quest": "Récupérer 3 Bois de Charme et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 4,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Apparition de Dremoan",
+      "bonus": "La vitesse d'apparition de Dremoan est augmentée de 300 %.",
+      "quest": "Récupérer 2 Volve de Fistulor et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 5,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les créatures de type Pirates de Moon.",
+      "quest": "Récupérer 2 Bandeau de Nakunbra et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 6,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la Bourgade.",
+      "quest": "Récupérer 2 Etoffe de Rat Bougri et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 7,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 125 % dans le donjon du Dojo du Vent.",
+      "quest": "Récupérer 2 Bracelet d'Ino-Naru et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 8,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type Wabbits.",
+      "quest": "Récupérer 7 Patte de Wabbit et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 9,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Récolte abondante",
+      "bonus": "Les quantités de Houblon récupérées par les Paysans sont augmentées de 125 %.",
+      "quest": "Récupérer 20 Houblon et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 10,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["elevage"],
+      "bonusName": "Élevage de Dragodindes",
+      "bonus": "Toutes les variétés de Dragodindes Indigo donnent naissance à un bébé supplémentaire.",
+      "quest": "Récupérer 2 Dent de Dragodinde et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 11,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres présents dans la zone de la Tourbière sans fond.",
+      "quest": "Récupérer 2 Faux menton du Bourbassingue et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 12,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Pêcheurs économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 4 Poisson pané vidé et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 13,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Expérience Robillesque",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % sur tous les gardiens de donjon.",
+      "quest": "Récupérer 2 Bâton Kouyu et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 14,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Cueillette abondante",
+      "bonus": "Les quantités de Trèfles à 5 Feuilles récupérées par les Alchimistes sont augmentées de 125 %.",
+      "quest": "Récupérer 15 Trèfle à 5 feuilles et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 15,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 150 % sur les Sangliers des Plaines.",
+      "quest": "Récupérer 2 Groin Porcin et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 16,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone du Village des Zoths.",
+      "quest": "Récupérer 2 Jouet de Gamine Zoth et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 17,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Bénédiction du Fin Patraque",
+      "bonus": "Ayiri Chkofi attend les aventuriers qui veulent boire un petit coup près de la taverne du village d'Amakna. Sa bénédiction transforme temporairement en Bulbinouze (effet qui disparaît quand un combat est lancé) et en Pilier de Comptoir (bonus de 5 % + 10 sur toutes les résistances durant 15 combats).",
+      "quest": "Récupérer 1 Pierre d'Émeraude et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 18,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Expérience des métiers",
+      "bonus": "Les gains d'expérience sont augmentés de 50 % pour les métiers de fabrication d'armes et d'équipements (Forgeurs et Sculpteurs d'armes, Bijoutier, Cordonnier, Tailleur et Façonneur).",
+      "quest": "Récupérer 1 Marteau Pickeur et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 19,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Minerai abondant",
+      "bonus": "Les quantités de Manganèse récupérées par les Mineurs sont augmentées de 150 %.",
+      "quest": "Récupérer 15 Manganèse et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 20,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon de la mine abandonnée de Sakaï.",
+      "quest": "Récupérer 2 Cervelle de Courtilieur et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 21,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 150 % sur les Bouftous.",
+      "quest": "Récupérer 6 Bave de Bouftou et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 22,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les Craqueleurs des Plaines.",
+      "quest": "Récupérer 3 Fragment de Pierre Pointue et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 23,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Apparition des ressources",
+      "bonus": "La vitesse d'apparition des bois de tous types est augmentée de 100 %.",
+      "quest": "Récupérer 20 Bois de Châtaignier et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 24,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone des Champs de Cania.",
+      "quest": "Récupérer 10 Farine d'Orge et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 25,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone des Cavernes Givrefoux.",
+      "quest": "Récupérer 2 Laine de Maho Givrefoux et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 26,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la Ruche des Gloursons.",
+      "quest": "Récupérer 2 Oreille d'Apériglours et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 27,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Gibier abondant",
+      "bonus": "Les quantités de Chair de Larve récupérées par les Chasseurs sont augmentées de 125 %. Ce bonus est valable pour toutes les qualités de Chair de Larve.",
+      "quest": "Récupérer 4 Chair de Larve *** et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 28,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les créatures de type Boufmouths.",
+      "quest": "Récupérer 2 Corne de Boufmouth de guerre et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 29,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % dans la zone du Berceau d'Alma.",
+      "quest": "Récupérer 2 Oeil de Vigie Pirate et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 30,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les Monstres des landes.",
+      "quest": "Récupérer 5 Queue de scorbute et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 31,
+        "month": 3,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon des Larves.",
+      "quest": "Récupérer 3 Peau de Larve Bleue et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 1,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["drop", "xp"],
+      "bonusName": "Butin et XP sur les créatures marines",
+      "bonus": "Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 75 % sur tous les monstres considérés comme des créatures marines (monstres des plages, crabes, corailleurs, crustorails, tortues de Moon, gélikan, Kralamoure Géant).",
+      "quest": "Récupérer 2 Fluide Glacial et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 2,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Pêche abondante",
+      "bonus": "Les quantités de Petits poissons de rivière et de mer récupérées par les Pêcheurs sont augmentées de 125 %.",
+      "quest": "Récupérer 4 Crabe Sourimi et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 3,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % sur les Firefoux.",
+      "quest": "Récupérer 2 Poils de Pétartifoux et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 4,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Façonneurs économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 2 Bouclier du Bouftou et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 5,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 125 % dans le donjon des Craqueleurs.",
+      "quest": "Récupérer 1 Dent en Or du Craqueleur et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 6,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du Bois de Litneg.",
+      "quest": "Récupérer 7 Poils du Mulou et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 7,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Récolte abondante",
+      "bonus": "Quête : Offrande à Bensom",
+      "quest": "Récupérer 20 Orge et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 8,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type Tortues de Moon et Plantes de Moon.",
+      "quest": "Récupérer 3 Carapace Verte Vide et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 9,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon du Centre du Labyrinthe du Minotoror.",
+      "quest": "Récupérer 2 Carapace de Scaratos et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 10,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["elevage"],
+      "bonusName": "Élevage de Dragodindes",
+      "bonus": "Toutes les variétés de Dragodindes Pourpres donnent naissance à un bébé supplémentaire.",
+      "quest": "Récupérer 1 Mangeoire en Frêne et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 11,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin supplémentaire Blop",
+      "bonus": "Les quantités de Bout de Blop récupérées sont augmentées de 100% sur les Blop.",
+      "quest": "Récupérer 9 Bout de Blop Coco et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 12,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % dans la maison Fantôme.",
+      "quest": "Récupérer 2 Dent de Garglyphe et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 13,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Bois abondant",
+      "bonus": "Les quantités de Bois d'Ebène et de Bois de Kaliptus récupérées par les Bûcherons sont augmentées de 150 %.",
+      "quest": "Récupérer 8 Bois de Kaliptus et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 14,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type Monstres du Village des Zoths.",
+      "quest": "Récupérer 2 Calumet Zoth et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 15,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Fabrication intensive",
+      "bonus": "Pour chaque objet fabriqué, les Bricoleurs ont 25 % de chances de créer un second objet.",
+      "quest": "Récupérer 1 Baffeur en Frêne et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 16,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone d'Astrub, ainsi que dans les champs et la forêt d'Astrub.",
+      "quest": "Récupérer 2 Kralamoure grillé ** et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 17,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la péninsule des Gelées.",
+      "quest": "Récupérer 2 Gelée à la Fraise et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 18,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les créatures de type Gloursons.",
+      "quest": "Récupérer 2 Queue de Meliglours et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 19,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Minerai abondant",
+      "bonus": "Les quantités d'Or récupérées par les Mineurs sont augmentées de 150 %.",
+      "quest": "Récupérer 10 Or et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 20,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone de Feudala.",
+      "quest": "Récupérer 3 Poils de Pétartifoux et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 21,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon du Centre du Labyrinthe du Minotoror.",
+      "quest": "Récupérer 2 Poil de Gamino et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 22,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Apparition des ressources",
+      "bonus": "La vitesse d'apparition des ressources est augmentée de 150 % dans les zones de la Rivière Kawaii et du Port de Madrestam.",
+      "quest": "Récupérer 2 Carpe d'Iem et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 23,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type Monstres des Tourbières.",
+      "quest": "Récupérer 2 Jus de Ouassingue et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 24,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la montagne des Craqueleurs.",
+      "quest": "Récupérer 2 Pierre du Craquebille et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 25,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Gibier abondant",
+      "bonus": "Les quantités de Museaux récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Museaux.",
+      "quest": "Récupérer 3 Museau ** et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 26,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Quêtes et kamas",
+      "bonus": "Les gains de kamas sont augmentés de 100 % pour toutes les quêtes.",
+      "quest": "Récupérer 2 Bourse Suspecte et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 27,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % dans la zone de la Route de Brâkmar.",
+      "quest": "Récupérer 3 Oreille de Kanigrou et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 28,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Mineurs économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 1 Cristal et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 29,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type Pious.",
+      "quest": "Récupérer 4 Plume de Piou Rouge et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 30,
+        "month": 4,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Cueillette abondante",
+      "bonus": "Les quantités de Plantes récupérées par les Alchimistes de tous niveaux sont augmentées de 100 %.",
+      "quest": "Récupérer 20 Fleur de Chanvre et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 1,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Fabrique Féérique",
+      "bonus": "Pour chaque Fée d'Artifice fabriquée, les personnages ont 25 % de chances de créer une seconde Fée et 10 % de chances d'économiser des ingrédients. Ils peuvent aussi récupérer 2 fois plus de Capsules Explosives en combattant des Bworks Mages.",
+      "quest": "Récupérer 2 Capsule Explosive et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 2,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 125 % dans le donjon Fungus.",
+      "quest": "Récupérer 1 Langue du Champodonte et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 3,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type Monstres de l'Arbre Hakam.",
+      "quest": "Récupérer 2 Souche de l'Abrakleur clair et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 4,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 250 % sur les Onis.",
+      "quest": "Récupérer 1 Sang d'Oni et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 5,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres présents dans la zone des Plaines Herbeuses.",
+      "quest": "Récupérer 2 Crinière fleurie et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 6,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Bois abondant",
+      "bonus": "Les quantités de Bombu, d'Oliviolet et d'Érable récupérées par les Bûcherons sont augmentées de 125 %.",
+      "quest": "Récupérer 15 Bois d'Erable et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 7,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone de la Bourgade, ainsi que dans les Champs de Glace.",
+      "quest": "Récupérer 5 Boulettes d'Insecte et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 8,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Quête répétable",
+      "bonus": "Une quête répétable spéciale est disponible aujourd'hui près du château d'Amakna. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+      "quest": "Récupérer 10 Pomme de Terre et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 9,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du Canyon Sauvage.",
+      "quest": "Récupérer 2 Pierre Médicinale et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 10,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["elevage"],
+      "bonusName": "Élevage de Dragodindes",
+      "bonus": "Toutes les variétés de Dragodindes Turquoise donnent naissance à un bébé supplémentaire.",
+      "quest": "Récupérer 3 Pelle de Boisaille et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 11,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone de la Plaine des Scarafeuilles.",
+      "quest": "Récupérer 1 Ailes de Scarafeuille Vert et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 12,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Récolte abondante",
+      "bonus": "Les quantités de Malt récupérées par les Paysans sont augmentées de 125 %.",
+      "quest": "Récupérer 20 Malt et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 13,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon du Repaire de Skeunk.",
+      "quest": "Récupérer 1 Étoffe du Fauchalak et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 14,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Objets de qualité",
+      "bonus": "La qualité des objets fabriqués dans la ville d'Astrub est augmentée.",
+      "quest": "Récupérer 2 Dagues de Fouraille et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 15,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Cadeaux Surprises",
+      "bonus": "Des Boufballes Surprises ont été ajoutées aux butins des monstres. Lorsqu'elles sont utilisées, elles permettent d'obtenir des Bouf'gommes de différents parfums.",
+      "quest": "Récupérer 11 Laine de Boufton Blanc et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 16,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Apparition des ressources",
+      "bonus": "La vitesse d'apparition des plantes cueillies par les Alchimistes est augmentée de 100 %.",
+      "quest": "Récupérer 40 Fleur de Lin et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 17,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 150 % sur les Roissingues.",
+      "quest": "Récupérer 2 Étoffe du Roissingue et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 18,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Récolte Abondante",
+      "bonus": "Les quantités de Résine Végétale et Sachet de Résine récupérées sont augmentées de 200%.",
+      "quest": "Récupérer 3 Sépale de Nerbe et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 19,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Minerai abondant",
+      "bonus": "Les quantités d'Étain et de Silicate récupérées par les Mineurs sont augmentées de 150 %.",
+      "quest": "Récupérer 12 Etain et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 20,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type Dopeuls de temple.",
+      "quest": "Récupérer 2 Papier Charbon et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 21,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Tailleurs ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 1 Capouze des Champs et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 22,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres présents dans la zone des Cavernes des Givrefoux.",
+      "quest": "Récupérer 2 Laine de Yokaï Givrefoux et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 23,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Pêche abondante",
+      "bonus": "Les quantités de Poissons de rivière géants récupérées par les Pêcheurs sont augmentées de 150 %.",
+      "quest": "Récupérer 2 Perche et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 24,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon des Champs.",
+      "quest": "Récupérer 3 Graine de Tournesol Sauvage et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 25,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone du Feuillage de l'Arbre Hakam.",
+      "quest": "Récupérer 2 Bave gluante et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 26,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de l'Élevage de Bouftous du Château d'Amakna.",
+      "quest": "Récupérer 6 Corne de Bouftou et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 27,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Fabrication intensive",
+      "bonus": "Pour chaque objet fabriqué, les Boulangers ont 25 % de chances de créer un second objet.",
+      "quest": "Récupérer 10 Pain Consistant et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 28,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Gibier abondant",
+      "bonus": "Les quantités de viande récupérées par les Chasseurs sur les créatures de Frigost qui vivent dans la Bourgade sont augmentées de 125 %.",
+      "quest": "Récupérer 2 Viande de Chachachovage et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 29,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Bois abondant",
+      "bonus": "Les quantités de Kaliptus récupérées par les Bûcherons sont augmentées de 125 %.",
+      "quest": "Récupérer 2 Poils de Koalak Forestier et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 30,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type Dragoeufs.",
+      "quest": "Récupérer 7 Coquille de Dragoeuf Doré et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 31,
+        "month": 5,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la forêt Pétrifiée.",
+      "quest": "Récupérer 2 Lamelle Fongique et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 1,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les créatures de type Monstres des plages.",
+      "quest": "Récupérer 5 Pince de Crabe et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 2,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Butin",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type Monstres des Tourbières.",
+      "quest": "Récupérer 1 Clef de l'Antre du Kralamoure Géant et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 3,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon des Forgerons.",
+      "quest": "Récupérer 2 Graine de la Discorde et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 4,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Percepteurs zélés",
+      "bonus": "Le butin généré par les Percepteurs est augmenté de 200 % dans toutes les zones.",
+      "quest": "Récupérer 2 Sceau Royal Contrefait et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 5,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Minerai abondant",
+      "bonus": "Les quantités de minerai récupérées par les Mineurs de tous niveaux sont augmentées de 100 %.",
+      "quest": "Récupérer 1 Lingot d'Or et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 6,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin frigostien",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur le Comte Harebourg et ses 4 lieutenants, ainsi que sur leurs créatures.",
+      "quest": "Récupérer 2 Oeil de Harrogant et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 7,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type Givrefoux.",
+      "quest": "Récupérer 2 Incisive de Kami Givrefoux et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 8,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de Plantala.",
+      "quest": "Récupérer 10 Bois de Bambou et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 9,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Cueillette abondante",
+      "bonus": "Les quantités d'Orchidée Freyesque récupérées par les Alchimistes sont augmentées de 150 %.",
+      "quest": "Récupérer 10 Orchidée Freyesque et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 10,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["elevage"],
+      "bonusName": "Élevage de Dragodindes",
+      "bonus": "Toutes les variétés de Dragodindes Amande donnent naissance à un bébé supplémentaire.",
+      "quest": "Récupérer 5 Pic de Dragodinde et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 11,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la plage de Moon.",
+      "quest": "Récupérer 2 Kokopaille et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 12,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Objets de qualité",
+      "bonus": "La qualité des objets fabriqués dans la ville de la Bourgade est augmentée.",
+      "quest": "Récupérer 2 Baguette de Glace et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 13,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone de la Caverne des Fungus.",
+      "quest": "Récupérer 1 Bave de Champ à Gnons et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 14,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Bricoleurs ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 1 Clef des Champs et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 15,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Bois abondant",
+      "bonus": "Les quantités de Merisier récupérées par les Bûcherons sont augmentées de 125 %.",
+      "quest": "Récupérer 12 Bois de Merisier et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 16,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres présents dans la zone du Village des Dragoeufs.",
+      "quest": "Récupérer 7 Coquille de Dragoeuf Saphir et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 17,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 150 % sur les Abraknydiens. Les gardiens de donjon ne sont pas concernés par ce bonus.",
+      "quest": "Récupérer 3 Racine d'Abraknyde Sombre et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 18,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 125 % dans le donjon des Dragoeufs.",
+      "quest": "Récupérer 2 Aile de Dragoeuf Volant et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 19,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 250 % sur les Firefoux.",
+      "quest": "Récupérer 5 Poils de Pétartifoux et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 20,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Récolte abondante",
+      "bonus": "Les quantités de Blé récupérées par les Paysans sont augmentées de 125 %.",
+      "quest": "Récupérer 40 Blé et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 21,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Tarif réduit",
+      "bonus": "Le coût d'utilisation des Zaaps, les frais bancaires  et les taxes des Hôtels de vente bénéficient d'une réduction de 50 %.",
+      "quest": "Récupérer 2 Conque Marine et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 22,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % dans la zone de la Plage de Corail.",
+      "quest": "Récupérer 2 Pince de Crustorail et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 23,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du Feuillage de l'Arbre Hakam.",
+      "quest": "Récupérer 2 Bave gluante et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 24,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type Plantes des Champs.",
+      "quest": "Récupérer 4 Fleur de Pissenlit Diabolique et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 25,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Apparition des ressources",
+      "bonus": "La vitesse d'apparition des ressources est augmentée de 150 % dans la zone des Landes de Sidimote.",
+      "quest": "Récupérer 40 Fer et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 26,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone du village de Pandala.",
+      "quest": "Récupérer 1 Bouclier Akwadala et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 27,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone du port de Madrestam.",
+      "quest": "Récupérer 3 Sardine Brillante vidée et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 28,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Apparition des ressources",
+      "bonus": "La vitesse d'apparition des ressources est augmentée de 150 % dans la zone des Orée de la Forêt des Abraknydes.",
+      "quest": "Récupérer 7 Racine d'Abraknyde et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 29,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Gibier abondant",
+      "bonus": "Les quantités de Cuisses de Boufton et de Bouftou récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Cuisses de Bouftou.",
+      "quest": "Récupérer 4 Cuisse de Boufton et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 30,
+        "month": 6,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone de l'île du Minotoror.",
+      "quest": "Récupérer 3 Peau de Mandrine et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 1,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 150 % sur les Chefs Crocodailles.",
+      "quest": "Récupérer 4 Écaille de Chef Crocodaille et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 2,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres présents dans la zone de la forêt d'Amakna.",
+      "quest": "Récupérer 6 Noisette et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 3,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Alchimistes ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 7 Potion de Mini Soin et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 4,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Objets de qualité",
+      "bonus": "La qualité des objets fabriqués dans le village et la forêt d'Amakna est augmentée.",
+      "quest": "Récupérer 10 Pain d'Amakna et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 5,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la Vallée de la Morh'Kitu.",
+      "quest": "Récupérer 1 Poils de Warko Violet et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 6,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Pêche abondante",
+      "bonus": "Les quantités de Poissons de rivière de taille moyenne récupérées par les Pêcheurs sont augmentées de 150 %.",
+      "quest": "Récupérer 8 Truite et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 7,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone des Larmes d'Ouronigride.",
+      "quest": "Récupérer 2 Résidu de Solfataré et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 8,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 200 % sur les Boufcouls et les Bouftous des Cavernes.",
+      "quest": "Récupérer 8 Laine du Boufcoul et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 9,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Expérience des métiers",
+      "bonus": "Les gains d'expérience sont augmentés de 50 % pour les métiers de récolte.",
+      "quest": "Récupérer 1 Planche en Frêne et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 10,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["elevage"],
+      "bonusName": "Élevage de Dragodindes",
+      "bonus": "Toutes les variétés de Dragodindes Prune donnent naissance à un bébé supplémentaire.",
+      "quest": "Récupérer 1 Arc Ecologique et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 11,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Minerai abondant",
+      "bonus": "Les quantités de Bauxite récupérées par les Mineurs sont augmentées de 150 %.",
+      "quest": "Récupérer 10 Bauxite et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 12,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone des Champs de Glace.",
+      "quest": "Récupérer 2 Laine de Boufmouth et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 13,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone des Larmes d'Ouronigride.",
+      "quest": "Récupérer 2 Pierre d'Atomystique et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 14,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Expérience du Kolizéum",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % lors des combats du Kolizéum.",
+      "quest": "Récupérer 2 Chaînes Brisées et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 15,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Gibier abondant",
+      "bonus": "Les quantités de Dragoviande récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Dragoviande.",
+      "quest": "Récupérer 3 DragoViande *** et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 16,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type Monstres de Vulkania.",
+      "quest": "Récupérer 2 Boue Vénérable et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 17,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Apparition des ressources",
+      "bonus": "La vitesse d'apparition des ressources est augmentée de 150 % dans la zone des Champs d'Astrub.",
+      "quest": "Récupérer 4 Fleur de Pissenlit Diabolique et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 18,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone du Coin des Bouftous.",
+      "quest": "Récupérer 5 Potion de Copeaux de Bois et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 19,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 125 % dans le donjon de la Grotte Hesque.",
+      "quest": "Récupérer 2 Coccyx du Corailleur et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 20,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Apparition des ressources",
+      "bonus": "La vitesse d'apparition des céréales récoltées par les Paysans est augmentée de 100 %.",
+      "quest": "Récupérer 1 Huile de Tournesol Sauvage et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 21,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du Village des Zoths.",
+      "quest": "Récupérer 2 Enfumoir Zoth et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 22,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les créatures de type Monstres de la Bourgade.",
+      "quest": "Récupérer 2 Plume de Gélikan et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 23,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Familiers Frénétiques",
+      "bonus": "Les bonus apportés par les familiers et les montiliers sont augmentés de 100 %.",
+      "quest": "Récupérer 10 Greu-Vette et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 24,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Bois abondant",
+      "bonus": "Les quantités de Tremble, de Bambou Sacré et d'Orme récupérées par les Bûcherons sont augmentées de 200 %.",
+      "quest": "Récupérer 1 Bois d'Orme et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 25,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type Cochons.",
+      "quest": "Récupérer 1 Peau de Don Duss Ang et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 26,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone de la forêt des Pins Perdus.",
+      "quest": "Récupérer 2 Queue d'Ecumouth et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 27,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Bouchers ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 8 Larve croque-sel et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 28,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % dans les zones de la forêt Enneigée et de la plaine de Sakaï.",
+      "quest": "Récupérer 2 Péroné du Marôdeur et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 29,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon Bambusaie de Damadrya.",
+      "quest": "Récupérer 40 Chanvre et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 30,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Butin et XP dans la Maison Fantôme",
+      "bonus": "Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 125 % dans le donjon de la Maison Fantôme.",
+      "quest": "Récupérer 4 Sang du Vampire et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 31,
+        "month": 7,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type Monstres de Vulkania.",
+      "quest": "Récupérer 2 Poudre Novice et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 1,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Cueillette abondante",
+      "bonus": "Les quantités d'Edelweiss et de Graines de Pandouille récupérées par les Alchimistes sont augmentées de 175 %.",
+      "quest": "Récupérer 10 Edelweiss et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 2,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type Tofus.",
+      "quest": "Récupérer 5 Oeuf de Tofu et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 3,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Quête répétable",
+      "bonus": "Une quête répétable spéciale est disponible aujourd'hui au sud des portes de Bonta. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+      "quest": "Récupérer 3 Potion de cité :  Bonta et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 4,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les créatures de type Monstres de Vulkania.",
+      "quest": "Récupérer 2 Cendres Matures et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 5,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Pêche abondante",
+      "bonus": "Les quantités de Poissons de Frigost récupérées par les Pêcheurs sont augmentées de 150 %.",
+      "quest": "Récupérer 3 Poisskaille et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 6,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone des Calanques d'Astrub.",
+      "quest": "Récupérer 2 Crème à bronzer et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 7,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon de l'Antre du Blop Multicolore Royal.",
+      "quest": "Récupérer 2 Racine de Tronkoblop et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 8,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone de Bonta.",
+      "quest": "Récupérer 4 Bottes du Chat Buté et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 9,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Récolte abondante",
+      "bonus": "Les quantités de céréales récupérées par les Paysans de tous niveaux sont augmentées de 100 %.",
+      "quest": "Récupérer 40 Blé et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 10,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["elevage"],
+      "bonusName": "Élevage de Dragodindes",
+      "bonus": "Les gains d'expérience des montures sont augmentés de 100 %.",
+      "quest": "Récupérer 2 Aile de Dragodinde Dorée et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 11,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du Cimetière de Bonta.",
+      "quest": "Récupérer 2 Bout d’Armure de Macrab et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 12,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type Kannibouls de l'île de Moon.",
+      "quest": "Récupérer 2 Poupée Vaudou Jav et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 13,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les créatures de type Monstres de Vulkania.",
+      "quest": "Récupérer 2 Flaque Juvénile et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 14,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Apparition des ressources",
+      "bonus": "La vitesse d'apparition des ressources est augmentée de 150 % dans la zone de la forêt d'Amakna.",
+      "quest": "Récupérer 15 Feuille de Menthe Sauvage et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 15,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Étoiles défilantes",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % sur les quêtes.",
+      "quest": "Récupérer 2 Paupière d'Étoile et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 16,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone de Terrdala.",
+      "quest": "Récupérer 2 Baguette de Tétonuki et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 17,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Minerai abondant",
+      "bonus": "Les quantités de Bronze récupérées par les Mineurs sont augmentées de 150 %.",
+      "quest": "Récupérer 20 Bronze et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 18,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les créatures de type Minos.",
+      "quest": "Récupérer 2 Poil de Gamino et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 19,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Paysans ont 10 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 10 Farine de Houblon et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 20,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la plaine des Porkass.",
+      "quest": "Récupérer 3 Cuir du Cochon de Lait et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 21,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Apparition des Archimonstres",
+      "bonus": "La vitesse d'apparition des Archimonstres est augmentée de 200 % dans les zones des forêts de Vulkania.",
+      "quest": "Récupérer 2 Fumée Juvénile et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 22,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Gibier abondant",
+      "bonus": "Les quantités de Carrés de Porc récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Carrés de Porc.",
+      "quest": "Récupérer 4 Carré de Porc et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 23,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du Mont Torrideau.",
+      "quest": "Récupérer 2 Poils de Boulglours et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 24,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 125 % dans le donjon du Bworker.",
+      "quest": "Récupérer 2 String en Cuir de la Mama Bwork et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 25,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres présents dans la zone du champ des Ingalsses.",
+      "quest": "Récupérer 3 Graine de Tournesol Sauvage et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 26,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Percepteurs avides",
+      "bonus": "Le butin généré par les Percepteurs est augmenté de 300 % dans le donjon des Dragoeufs.",
+      "quest": "Récupérer 2 Corne de Dragueuse et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 27,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les créatures de type Monstres du Berceau d'Alma.",
+      "quest": "Récupérer 2 Coquille de Harpirate et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 28,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Bois abondant",
+      "bonus": "Les quantités de Noyer récupérées par les Bûcherons sont augmentées de 150 %.",
+      "quest": "Récupérer 20 Bois de Noyer et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 29,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon des Blops.",
+      "quest": "Récupérer 2 Fleur de Blopignon et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 30,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du  Labyrinthe du Dragon Cochon.",
+      "quest": "Récupérer 1 Peau de Don Dorgan et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 31,
+        "month": 8,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans ont 15 % de chances d'économiser des ingrédients lorsqu'ils fabriquent des objets dans la zone de la forêt d'Amakna.",
+      "quest": "Récupérer 3 Pain aux Graines de Sésame et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 1,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone des Lacs Enchantés.",
+      "quest": "Récupérer 2 Os de Pékeualak et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 2,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Expérience des métiers",
+      "bonus": "Les gains d'expérience sont augmentés de 50 % pour tous les métiers.",
+      "quest": "Récupérer 4 Potion de Vieillesse et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 3,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Cueillette abondante",
+      "bonus": "Les quantités de Fleurs de Lin récupérées par les Alchimistes sont augmentées de 125 %.",
+      "quest": "Récupérer 40 Fleur de Lin et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 4,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les monstres des Crocs de verre.",
+      "quest": "Récupérer 2 Griffe de Blérauve et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 5,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de Aerdala.",
+      "quest": "Récupérer 4 Bois de Bambou Doré et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 6,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 125 % dans la Bibliothèque du Maître Corbac.",
+      "quest": "Récupérer 1 Poil de Renarbo et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 7,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres des Larmes d'Ouronigride.",
+      "quest": "Récupérer 2 Tuf de Mofette et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 8,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Pêche abondante",
+      "bonus": "Les quantités de Poissons de mer de taille moyenne récupérées par les Pêcheurs sont augmentées de 150 %.",
+      "quest": "Récupérer 3 Sardine Brillante et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 9,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 150 % sur les Bergers Porkass.",
+      "quest": "Récupérer 2 Trident Cassé et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 10,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["elevage"],
+      "bonusName": "Élevage de Dragodindes",
+      "bonus": "Toutes les variétés de Dragodindes Ebène donnent naissance à un bébé supplémentaire.",
+      "quest": "Récupérer 1 Dent de Dragodinde et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 11,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % dans la zone du Sanctuaire des Dragoeufs.",
+      "quest": "Récupérer 2 Corne de Dragoeuf Guerrier et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 12,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Bonta et Brâkmar",
+      "bonus": "Les récompenses en points d'expérience des quêtes d'alignement et des quêtes des Ordres des cités sont augmentées de 100 %. De plus, une quête répétable spéciale est disponible aujourd'hui à l'intérieur des milices de Bonta ou de Brâkmar. Réalisable à partir du niveau 10 par les personnages alignés, elle est indépendante de la quête d'offrande.",
+      "quest": "Récupérer 2 Flamme Spectrale et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 13,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Récolte abondante",
+      "bonus": "Les quantités de Lin récupérées par les Paysans sont augmentées de 125 %.",
+      "quest": "Récupérer 20 Lin et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 14,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les monstres de la forêt Pétrifiée.",
+      "quest": "Récupérer 2 Écorce d'Abrazif et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 15,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Bijoutiers économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 3 Collier de l'Arc en Ciel et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 16,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone des Champs de Glace.",
+      "quest": "Récupérer 2 Oreille de Bouftonmouth et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 17,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone de la Clairière de Brouce Boulgoure.",
+      "quest": "Récupérer 7 Épine du Champ Champ et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 18,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon des Squelettes.",
+      "quest": "Récupérer 4 Os de Chafer et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 19,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["drop", "xp"],
+      "bonusName": "Butin et XP sur les pirates",
+      "bonus": "Les gains d'expérience et les chances d'obtenir du butin sont augmentés de 75 % sur tous les monstres considérés comme des pirates.",
+      "quest": "Récupérer 1 Planche en Noyer et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 20,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Gibier abondant",
+      "bonus": "Les quantités de viande récupérées par les Chasseurs sur les Kanigrous, les Crocodailles et les Koalaks sont augmentées de 125 %.",
+      "quest": "Récupérer 3 Viande de Kanigrou et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 21,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Objets de qualité",
+      "bonus": "La qualité des objets fabriqués dans la ville de Brâkmar est augmentée.",
+      "quest": "Récupérer 2 Hache Vôr'Om et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 22,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de Feudala.",
+      "quest": "Récupérer 3 Poils de Founamboul et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 23,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les monstres des Plaines Herbeuses.",
+      "quest": "Récupérer 2 Duvet du Kilibriss et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 24,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de la Campagne.",
+      "quest": "Récupérer 4 Hachette de Bûcheron et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 25,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 150 % sur les Crocodailles.",
+      "quest": "Récupérer 4 Peau de Crocodaille et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 26,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Minerai abondant",
+      "bonus": "Les quantités de Dolomite et d'Obsidienne récupérées par les Mineurs sont augmentées de 175 %.",
+      "quest": "Récupérer 3 Obsidienne et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 27,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 125 % dans le Repaire de Kanigroula.",
+      "quest": "Récupérer 4 Tignasse de Kanihilan et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 28,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Percepteurs avides",
+      "bonus": "Le butin généré par les Percepteurs est augmenté de 100 % dans le Labyrinthe du Minotoror.",
+      "quest": "Récupérer 3 Plume du Serpiplume et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 29,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres présents dans la zone de l'Arche d'Otomaï.",
+      "quest": "Récupérer 2 Maillot de corps de Barbroussa et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 30,
+        "month": 9,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Percepteurs avides",
+      "bonus": "Le butin généré par les Percepteurs est augmenté de 300 % dans le donjon de la Canopée du Kimbo.",
+      "quest": "Récupérer 2 Coco du Bitouf aérien et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 1,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone des Terres Désacrées.",
+      "quest": "Récupérer 2 Flamme Spectrale et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 2,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Bois abondant",
+      "bonus": "Les quantités de Bois de Chêne récupérées par les Bûcherons sont augmentées de 150 %.",
+      "quest": "Récupérer 20 Bois de Chêne et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 3,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Quête répétable",
+      "bonus": "Une quête répétable spéciale est disponible aujourd'hui près de la fontaine du village d'Amakna. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+      "quest": "Récupérer 3 Arc de Boisaille et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 4,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la Milifutaie.",
+      "quest": "Récupérer 3 Pic du Prespic et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 5,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Poissonniers économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 3 Bâton de crabe ** et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 6,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon du Laboratoire du Tynril.",
+      "quest": "Récupérer 2 Écorce de Floribonde et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 7,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone de la forêt des Abraknydes Sombres.",
+      "quest": "Récupérer 1 Racine d'Abraknyde Sombre et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 8,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Gibier abondant",
+      "bonus": "Les quantités de viande récupérées par les Chasseurs de tous niveaux sont augmentées de 100 %.",
+      "quest": "Récupérer 4 Museau et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 9,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les Nimbos Dure-Tête.",
+      "quest": "Récupérer 4 Poils de barbe du cavalier Ronimbos et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 10,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["elevage"],
+      "bonusName": "Élevage de Dragodindes",
+      "bonus": "Toutes les variétés de Dragodindes Dorées donnent naissance à un bébé supplémentaire.",
+      "quest": "Récupérer 2 Carpe d'Iem vidée et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 11,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les monstres des Larmes d'Ouronigride.",
+      "quest": "Récupérer 2 Résidu de Solfataré et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 12,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Expérience des quêtes",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % pour toutes les quêtes.",
+      "quest": "Récupérer 3 Eau de Kwapa et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 13,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Apparition des ressources",
+      "bonus": "La vitesse d'apparition des ressources est augmentée de 150 % dans la zone d'Akwadala.",
+      "quest": "Récupérer 4 Concombre et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 14,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone de la forêt Maléfique.",
+      "quest": "Récupérer 7 Aile du Tofu Maléfique et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 15,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Cueillette abondante",
+      "bonus": "Les quantités de Fleurs de Chanvre récupérées par les Alchimistes sont augmentées de 125 %.",
+      "quest": "Récupérer 20 Fleur de Chanvre et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 16,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon de la Caverne du Koulosse.",
+      "quest": "Récupérer 9 Laine du Boufcoul et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 17,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les récolteurs économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de la forêt des Pins Perdus.",
+      "quest": "Récupérer 3 Chair de Larve Conservée ** et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 18,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les Zoths.",
+      "quest": "Récupérer 2 Enfumoir Zoth et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 19,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Apparition des ressources",
+      "bonus": "La vitesse d'apparition des poissons de tous types est augmentée de 100 %.",
+      "quest": "Récupérer 3 Brochet et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 20,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la presqu'île des Dragoeufs.",
+      "quest": "Récupérer 7 Coquille de Dragoeuf Noir et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 21,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Fabrication intensive",
+      "bonus": "Les quantités d'objets fabriqués par les Bouchers sont augmentées de 25 %.",
+      "quest": "Récupérer 4 Jambon cuit et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 22,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone du Berceau.",
+      "quest": "Récupérer 7 Plumes de Tofu et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 23,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Apparition de Brumen Tinctorias",
+      "bonus": "La vitesse d'apparition de Brumen Tinctorias est augmentée de 300 %.",
+      "quest": "Récupérer 4 Plume de Corbac et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 24,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Minerai abondant",
+      "bonus": "Les quantités de Fer récupérées par les Mineurs sont augmentées de 150 %.",
+      "quest": "Récupérer 40 Fer et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 25,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les monstres de la forêt des Pins Perdus.",
+      "quest": "Récupérer 2 Dent de Smilomouth et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 26,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 125 % dans le donjon Wabbit.",
+      "quest": "Récupérer 5 Dent de Wabbit et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 28,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Récolte abondante",
+      "bonus": "Les quantités de Chanvre récupérées par les Paysans sont augmentées de 125 %.",
+      "quest": "Récupérer 20 Chanvre et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 29,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les Givrefoux.",
+      "quest": "Récupérer 2 Oreille de Soryo Givrefoux et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 30,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres présents dans la zone de la forêt Enneigée.",
+      "quest": "Récupérer 2 Peau d'Ouilleur et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 31,
+        "month": 10,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Cadeaux surprises",
+      "bonus": "Des Surprises de Trikortritt ont été ajoutées aux butins des monstres. Lorsqu'elles sont utilisées, elles permettent d'obtenir des Bonbons d'Halouine ou bien de se retrouver transformé en Petite Chauffe-Soutrille.",
+      "quest": "Récupérer 4 Poils de Barbe du Bwork Mage et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 1,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin et XP en slip",
+      "bonus": "Les gains d'expérience lors des combats contre les monstres et les chances d'obtenir du butin sont augmentés de 50 % pour tous les aventuriers qui sont équipés d'un slip.",
+      "quest": "Récupérer 2 Slip en cuir du Chafer Lancier et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 2,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon du laboratoire de Brumen Tinctorias.",
+      "quest": "Récupérer 9 Oeil de Kolérat et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 3,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans et les récolteurs économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone du Village d'Amakna.",
+      "quest": "Récupérer 1 Cape Sombre et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 4,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les Bandits et les Artisans Sombres.",
+      "quest": "Récupérer 2 Sceau Royal Contrefait et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 5,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone du port de Givre.",
+      "quest": "Récupérer 2 Poil de Chachachovage et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 6,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Bois abondant",
+      "bonus": "Les quantités de Bois de Châtaignier récupérées par les Bûcherons sont augmentées de 125 %.",
+      "quest": "Récupérer 20 Bois de Châtaignier et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 7,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone de la jungle Obscure.",
+      "quest": "Récupérer 2 Calice de Fécorce et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 8,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres présents dans la zone du Bord de la forêt Maléfique.",
+      "quest": "Récupérer 2 Pic du Prespic et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 9,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone du Berceau d'Alma.",
+      "quest": "Récupérer 2 Coquille de Fantimonier et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 10,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["elevage"],
+      "bonusName": "Élevage de Dragodindes",
+      "bonus": "Toutes les variétés de Dragodindes Orchidée donnent naissance à un bébé supplémentaire.",
+      "quest": "Récupérer 7 Goujon vidé et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 11,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Bénédiction de Miss Triste",
+      "bonus": "Miss Triste attend les aventuriers qui veulent se refaire une laideur près de la fontaine du village d'Amakna. Sa bénédiction transforme temporairement en Crocodaille (effet qui disparaît quand un combat est lancé) et en Souffre-Douleur (bonus de 50 Puissance et 10 dommages fixes durant 15 combats).",
+      "quest": "Récupérer 4 Écaille de Crocodaille et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 12,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Pêche abondante",
+      "bonus": "Les quantités de Poissons de mer géants récupérées par les Pêcheurs sont augmentées de 150 %.",
+      "quest": "Récupérer 3 Raie Bleue et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 13,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon des Rats de Brâkmar.",
+      "quest": "Récupérer 2 Bave Empoisonnée et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 14,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les monstres Dragodindes.",
+      "quest": "Récupérer 1 Pic de Dragodinde Rousse Sauvage et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 15,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Quête répétable",
+      "bonus": "Une quête répétable spéciale est disponible aujourd'hui près de la statue du dieu Sram à Astrub. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+      "quest": "Récupérer 2 Leurnettes et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 16,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les monstres des Égouts.",
+      "quest": "Récupérer 2 Poil de Chamane d'Egoutant et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 17,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Gibier abondant",
+      "bonus": "Les quantités de viande récupérées par les Chasseurs sur les créatures de Frigost qui vivent en dehors de la Bourgade sont augmentées de 150 %.",
+      "quest": "Récupérer 1 Chair de Mansot et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 18,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres des Égouts.",
+      "quest": "Récupérer 2 Poil de Chamane d'Egoutant et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 19,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Bûcherons économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 3 Potion de Copeaux de Bois Solides et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 20,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Apparition d'Ogivol Scarlarcin",
+      "bonus": "La vitesse d'apparition d'Ogivol Scarlarcin est augmentée de 300 %.",
+      "quest": "Récupérer 5 Patte de Corbac et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 21,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les monstres de l'Arbre Hakam.",
+      "quest": "Récupérer 2 Tresse du Poolay et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 22,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Percepteurs avides",
+      "bonus": "Le butin généré par les Percepteurs est augmenté de 300 % dans le donjon des Canidés.",
+      "quest": "Récupérer 7 Poils du Mulou et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 23,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone du Cimetière des Torturés.",
+      "quest": "Récupérer 2 Mâchoire du Chafer Draugr et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 24,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Récolte abondante",
+      "bonus": "Les quantités d'Avoine récupérées par les Paysans sont augmentées de 125 %.",
+      "quest": "Récupérer 20 Avoine et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 25,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les Boufmouths.",
+      "quest": "Récupérer 2 Laine de Boufmouth légendaire et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 26,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres présents dans la zone du Passage vers Brâkmar.",
+      "quest": "Récupérer 4 Bourse Suspecte et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 27,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 125 % dans le donjon de la Canopée du Kimbo.",
+      "quest": "Récupérer 2 Étoffe de Meupette et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 28,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone des Larmes d'Ouronigride.",
+      "quest": "Récupérer 2 Coeur de Crapeur et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 29,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Minerai abondant",
+      "bonus": "Les quantités de Kobalte récupérées par les mineurs sont augmentées de 150 %.",
+      "quest": "Récupérer 20 Kobalte et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 30,
+        "month": 11,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la forêt Enneigée.",
+      "quest": "Récupérer 2 Oreille de Gobosteur et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 1,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans le donjon des Bouftous.",
+      "quest": "Récupérer 9 Corne de Bouftou et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 2,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans et les récolteurs économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone de Sufokia.",
+      "quest": "Récupérer 1 Clef du Donjon Ensablé et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 3,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les Mansots.",
+      "quest": "Récupérer 2 Peau de Mansobèse et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 4,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Bois abondant",
+      "bonus": "Les quantités de Bois récupérées par les Bûcherons de tous niveaux sont augmentées de 100 %.",
+      "quest": "Récupérer 1 Planche en Chêne et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 5,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans la zone des Souterrains des Dragoeufs.",
+      "quest": "Récupérer 4 Oeuf de Dragoeuf Noir et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 6,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Kolizétons",
+      "bonus": "La quantité de jetons gagnée en Kolizéum est augmentée de 100 %.",
+      "quest": "Récupérer 1 Pelle de Rapage et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 7,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les Koalaks.",
+      "quest": "Récupérer 2 Boomerang du Dok Alako et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 8,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans les zones de la plaine de Sakaï et de la forêt Enneigée.",
+      "quest": "Récupérer 2 Oeil de Sapeur et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 9,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Cueillette abondante",
+      "bonus": "Les quantités de Perce-Neige récupérées par les Alchimistes sont augmentées de 175 %.",
+      "quest": "Récupérer 5 Perce-Neige et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 10,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["elevage"],
+      "bonusName": "Élevage de Dragodindes",
+      "bonus": "Toutes les variétés de Dragodindes Ivoire donnent naissance à un bébé supplémentaire.",
+      "quest": "Récupérer 3 Dent de Dragodinde et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 11,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les Cordonniers économisent 10 % de leurs ingrédients lorsqu'ils fabriquent des objets.",
+      "quest": "Récupérer 1 Sandales Tofuesques et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 12,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Quête répétable",
+      "bonus": "Une quête répétable spéciale est disponible aujourd'hui près des portes de Brâkmar. Réalisable à partir du niveau 10, elle est indépendante de la quête d'offrande.",
+      "quest": "Récupérer 3 Potion de cité :  Brâkmar et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 13,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Apparition des ressources",
+      "bonus": "La vitesse d'apparition des minerais de tous types est augmentée de 100 %.",
+      "quest": "Récupérer 20 Cuivre et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 14,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 125 % dans le donjon des Canidés.",
+      "quest": "Récupérer 8 Chaînes Brisées et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 15,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la plaine des Porkass.",
+      "quest": "Récupérer 4 Cuir de Porkass et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 16,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenge supplémentaire",
+      "bonus": "Un challenge supplémentaire est généré contre les monstres de Nowel.",
+      "quest": "Récupérer 2 Emballage de Nowel Écarlate et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 17,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Pêche abondante",
+      "bonus": "Les quantités de Gros poissons de mer récupérées par les Pêcheurs sont augmentées de 150 %.",
+      "quest": "Récupérer 3 Kralamoure et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 18,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 200 % dans tous les donjons.",
+      "quest": "Récupérer 3 Epée de Boisaille et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 19,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % sur les monstres de Nowel.",
+      "quest": "Récupérer 2 Flocon de Neige et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 20,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["economie"],
+      "bonusName": "Économie d'ingrédients",
+      "bonus": "Les artisans et les récolteurs économisent 15 % de leurs ingrédients lorsqu'ils fabriquent des objets dans la zone du territoire des Porcos.",
+      "quest": "Récupérer 1 Aluminite et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 21,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 100 % dans la zone du Cimetière de Bonta.",
+      "quest": "Récupérer 3 Pointe de Lance de Tournoyé et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 22,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 75 % dans les zones du Bateau Pirate et de l'île des Naufragés.",
+      "quest": "Récupérer 2 Nœud de Marin et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 23,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Gibier abondant",
+      "bonus": "Les quantités de Viande d'Oiseau récupérées par les Chasseurs sont augmentées de 125%. Ce bonus est valable pour toutes les qualités de Viande d'Oiseau.",
+      "quest": "Récupérer 4 Viande d'Oiseau ** et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 24,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["challenge"],
+      "bonusName": "Challenges augmentés",
+      "bonus": "Les bonus apportés par les challenges réussis sont augmentés de 150 % sur les monstres de Nowel.",
+      "quest": "Récupérer 1 Traîneau en Pain d'Épices et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 25,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Cadeaux surprises",
+      "bonus": "Des Cadeaux de Nowel ont été ajoutés aux butins des monstres. Lorsqu'ils sont utilisés, ils permettent d'obtenir des ressources ou d'autres objets aléatoires.",
+      "quest": "Récupérer 4 Cadeau de Nowel et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 26,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 125 % dans le donjon de l'excavation du Mansot Royal.",
+      "quest": "Récupérer 2 Poil de barbe du Shamansot et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 27,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Points d'expérience",
+      "bonus": "Les gains d'expérience sont augmentés de 75 % sur les monstres de Nowel.",
+      "quest": "Récupérer 1 Paquet Cadeau en Chocolat et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 28,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["autre"],
+      "bonusName": "Apparition des Dragodindes de Nowel",
+      "bonus": "La vitesse d'apparition des Dragodindes de Nowel est augmentée de 200 %.",
+      "quest": "Récupérer 4 Cadeau de Nowel et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 29,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["recolte"],
+      "bonusName": "Récolte abondante",
+      "bonus": "Les quantités de Seigle et de Riz récupérées par les Paysans sont augmentées de 125 %.",
+      "quest": "Récupérer 20 Seigle et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 30,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["drop"],
+      "bonusName": "Butin",
+      "bonus": "Les chances d'obtenir du butin sont augmentées de 100 % dans la zone de la jungle Obscure.",
+      "quest": "Récupérer 2 Graine sombre et rapporter l'offrande à Théodoran Ax"
+    },
+    {
+      "date": {
+        "day": 31,
+        "month": 12,
+        "year": 2024
+      },
+      "bonusTypes": ["xp"],
+      "bonusName": "Expérience des métiers",
+      "bonus": "Les gains d'expérience sont augmentés de 50 % pour les métiers de fabrication de consommables (Boulanger, Boucher, Bricoleur et Poissonnier).",
+      "quest": "Récupérer 8 Nuggets et rapporter l'offrande à Théodoran Ax"
+    }
+  ]
